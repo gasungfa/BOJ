@@ -1,4 +1,4 @@
-package `1991`
+package solved
 
 data class TreeNode<T>(
     var data: T,
