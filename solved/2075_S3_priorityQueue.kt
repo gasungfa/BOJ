@@ -1,4 +1,4 @@
-package challenging
+package solved
 
 class Heap{
     private val list = mutableListOf<Int>()

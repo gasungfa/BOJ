@@ -1,4 +1,4 @@
-package challenging
+package solved
 
 import java.util.PriorityQueue
 
